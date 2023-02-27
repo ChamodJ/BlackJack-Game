@@ -1,0 +1,40 @@
+body {
+    background-image: url(Images/michal-parzuchowski-U8n_O7rEq7o-unsplash.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-shadow: 0 0 5px black;
+}
+
+.main-div {
+    background-image: url(Images/engin-akyurt-HEMIBJ8QQuA-unsplash.jpg);
+    background-size: cover;
+
+  /*  margin: 70px auto;*/
+    padding: 30px;
+}
+
+.main-head {
+    font-family: 'Fjalla One', sans-serif;
+    color: #dbb42c;
+}
+
+button {
+    width: 150px;
+    padding: 10px 5px;
+    border: 2px solid #dddf00;
+    border-radius: 5px;
+    margin: 2px;
+
+    font-weight: bold;
+    background-color: #dbb42c;
+    color: #006400;
+    text-shadow: 0 0 1px black;
+}
